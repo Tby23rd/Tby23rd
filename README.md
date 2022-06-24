@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tabitha Maru</h1>
 <h3 align="center">A passionate fullstack developer in Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tby23rd&label=Profile%20views&color=0e75b6&style=flat" alt="tby23rd" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tby23rd" alt="tby23rd" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tby23rd" target="blank"><img src="https://img.shields.io/twitter/follow/tby23rd?logo=twitter&style=for-the-badge" alt="tby23rd" /></a> </p>
 
 - 🔭 I’m currently working on **cryptocurrency trading platform**
 

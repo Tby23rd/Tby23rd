@@ -24,7 +24,7 @@
 <a href="https://kaggle.com/tby23rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tby23rd" height="30" width="40" /></a>
 <a href="https://instagram.com/tby23rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tby23rd" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tby23rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tby23rd" height="30" width="40" /></a>
-<a href="https://app.codesignal.com/profile/tabithamaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Group-28393.svg" alt="tby23rd" height="30" width="40" /></a>
+<a href="https://app.codesignal.com/profile/tabithamaru" target="blank"></a>
 <a href="https://www.leetcode.com/tby23rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tby23rd" height="30" width="40" /></a>
 </p>
 

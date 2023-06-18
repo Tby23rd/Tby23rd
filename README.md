@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **ovulation and period tracker app**
 
-- 🤝 I’m looking for help with **astrology and astronomy**
-
 - 💬 Ask me about **java, python, mongodb**
 
 - 📫 How to reach me **marutabitha@gmail.com**

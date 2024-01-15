@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Quantum computing**
 
-- 👯 I’m looking to collaborate on **Blockchain and Quantum Computers**
+- 👯 I’m looking to collaborate with **Startups**
 
-- 💬 Ask me about **Any latest technologies**
+- 💬 Contact me for any projects that require **The latest technologies** but mostly **ASP .NET, REACTJS, AZURE, AWS, OpenAI, Blockchain**
 
 - 📫 How to reach me **marutabitha@gmail.com**
 

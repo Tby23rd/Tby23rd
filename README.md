@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tby23rd" alt="tby23rd" /></a> </p>
 
-- 🔭 I’m currently working on **cryptocurrency trading platform**
+- 🔭 I’m currently working on **GPT Apps, Web Apps**
 
-- 🌱 I’m currently learning **data science, aws**
+- 🌱 I’m currently learning **Quantum computing**
 
-- 👯 I’m looking to collaborate on **ovulation and period tracker app**
+- 👯 I’m looking to collaborate on **Blockchain and Quantum Computers**
 
-- 💬 Ask me about **java, python, mongodb**
+- 💬 Ask me about **Any latest technologies**
 
 - 📫 How to reach me **marutabitha@gmail.com**
 
